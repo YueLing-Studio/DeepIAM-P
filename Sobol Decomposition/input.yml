@@ -1,0 +1,5 @@
+input_csv_path: 'AR6_scenario.csv'  #"synthetic_scenario_model.csv" 
+save: "yes"
+use_resampling: "yes"
+resampling: 50
+sample_size_per_ms: 120
